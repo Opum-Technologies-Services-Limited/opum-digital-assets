@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.opum.mydigitalknee",
+    "sha256_cert_fingerprints": [
+      "1A:C6:C9:C0:91:36:FB:73:4D:E7:79:A6:CE:35:00:29:5B:36:FA:F6:F3:4B:8B:A1:6F:4C:BD:BF:16:81:86:D9"
+    ]
+  }
+}]
